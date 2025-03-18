@@ -1,0 +1,8 @@
+{
+    "require": {
+        "popphp/pop-db": "^6.6"
+    },
+    "autoload":{
+	   "classmap":["lib/","src/"]
+    }
+}
